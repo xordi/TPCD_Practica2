@@ -117,8 +117,6 @@
 189,1,Flat,Flat,-1.0,85,True,False,41.38453,/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado/157557010/d,2.14875,590.0,"FINCAS CALVET, S.L.",1,36,la nova esquerra de l'eixample,14.521146251476095
 190,1,Flat,Flat,-1.0,10,True,False,41.39684000000001,/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado/157861337/d,2.123986,590.0,"FINCAS CALVET, S.L.",0,32,sarrià,16.866645352136484
 191,1,Study,Flat,3.0,0,False,False,41.38657,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-no-amueblado/157783581/d,2.172839,595.0,Balsells Zaragoza Gestió,1,36,el barri gòtic,14.298789695601279
-192,1,Study,Flat,2.0,30,True,False,41.3784,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-ascensor-amueblado/157254858/d,2.17015,595.0,MARCEL PELLICER,0,0,el raval,14.323614132049755
-193,1,Apartment,Flat,2.0,30,True,False,41.3783,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-ascensor-amueblado/157254930/d,2.170105,595.0,MARCEL PELLICER,0,0,el raval,14.323614132049755
 194,1,Flat,Flat,2.0,0,False,False,41.44741,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado/158122235/d,2.182167,595.0,FINCAS DUEÑAS,2,50,la trinitat nova,12.107702720481573
 195,1,Flat,Flat,-1.0,0,False,False,41.38056,/es/alquiler/vivienda/barcelona-capital/trastero/158182817/d,2.17806,595.0,ric,1,35,el barri gòtic,14.298789695601279
 196,1,Apartment,Flat,-1.0,30,True,False,41.40837,/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado/158110102/d,2.15734,595.0,FINCAS LAFONT,1,40,la vila de gràcia,15.09676059493889
@@ -528,7 +526,6 @@
 750,1,Apartment,Flat,3.0,0,False,False,41.38789000000001,"/es/alquiler/vivienda/barcelona-capital/sant-pere,-sta--caterina-i-la-ribera/157482256/d",2.177689,700.0,FINCAS PEREZ,1,35,"sant pere, santa caterina i la ribera",15.157329044420129
 751,1,Apartment,Flat,3.0,50,False,False,41.41521,/es/alquiler/vivienda/barcelona-capital/can-baro/156003484/d,2.164845,700.0, EL DESPATX 97,1,50,can baró,13.400429369432787
 752,1,Flat,Flat,3.0,0,False,False,41.37192,/es/alquiler/vivienda/barcelona-capital/calefaccion-amueblado/157163958/d,2.165739,700.0,1001 PISOS,2,50,el poble sec - aei parc montjuïc,14.359229885638655
-753,1,Flat,Flat,3.0,100,False,False,41.41,/es/alquiler/vivienda/barcelona-capital/el-camp-de-l'arpa-del-clot/157174765/d,2.181939,700.0,MARI IMMOBLES,2,0,el camp de l'arpa del clot,13.541243796410015
 766,1,Apartment,Flat,3.0,0,True,False,41.40834,/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-amueblado-television-internet/157775603/d,2.17788,700.0,PISOMUNDO,1,35,la sagrada família,14.476486837923611
 827,1,Apartment,Flat,2.0,0,True,False,41.39698,/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-amueblado-internet/158232478/d,2.202017,700.0,GAUDI HOUSE FINCAS,1,51,el poblenou,15.083231195188253
 828,1,Flat,Flat,2.0,0,True,False,41.44026,/es/alquiler/vivienda/barcelona-capital/terraza-ascensor-amueblado/158231078/d,2.186535,700.0,TECNOCASA-ESTUDI GRAN DE SANT ANDREU,2,42,sant andreu,12.474876968176009
@@ -932,7 +929,6 @@
 1308,1,Flat,Flat,-1.0,0,True,False,41.41309,/es/alquiler/vivienda/barcelona-capital/ascensor/158215356/d,2.1899,750.0,FINCAS ABARCA,2,43,navas,12.426713511487884
 1309,1,Apartment,Flat,-1.0,0,False,False,41.43452,/es/alquiler/vivienda/barcelona-capital/porta/158196980/d,2.1785330000000003,750.0,FINQUES MARCOS ,1,45,porta,12.32845508082162
 1310,1,Flat,Flat,-1.0,175,False,False,41.37236,/es/alquiler/vivienda/barcelona-capital/terraza-amueblado/157355432/d,2.155704,750.0,RS GROUP,2,54,el poble sec - aei parc montjuïc,14.359229885638655
-1311,1,Flat,Flat,-1.0,50,True,False,41.37965,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/156435741/d,2.190074,750.0,FINCAS TEIXIDOR,1,0,la barceloneta,17.40046456969391
 1312,1,Flat,Flat,-1.0,200,True,False,41.36994,/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado/157349890/d,2.137236,750.0,Bolepo Holdings,3,60,la bordeta,12.756845095570602
 1313,1,Loft,Flat,-1.0,0,False,False,41.38574000000001,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado-internet/158201925/d,2.18157,750.0,Maria ,1,60,"sant pere, santa caterina i la ribera",15.157329044420129
 1314,1,Flat,Flat,-1.0,0,False,False,41.37986,/es/alquiler/vivienda/barcelona-capital/amueblado-se-aceptan-mascotas/158181336/d,2.176918,750.0,SERVICHECK (VALLECAS),2,67,el barri gòtic,14.298789695601279
@@ -1091,7 +1087,6 @@
 1470,1,Flat,Flat,-1.0,0,True,False,41.4044,/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado/158155830/d,2.1425240000000003,762.0,"FINCAS CALVET, S.L.",1,31,el putxet i el farró,15.027643645449707
 1471,1,Flat,Flat,-1.0,0,True,False,41.42545,/es/alquiler/vivienda/barcelona-capital/terraza-ascensor-patio-no-amueblado/158107875/d,2.15373,764.0,NOVA LLAR,3,80,el carmel,12.091516130739544
 1472,1,Apartment,Flat,-1.0,498,False,False,41.38456,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-television-internet/157380820/d,2.164996,764.0,Homelike,1,35,el raval,14.323614132049755
-1473,1,Flat,Flat,-1.0,0,False,False,41.43159,/es/alquiler/vivienda/barcelona-capital/no-amueblado/158166472/d,2.15764,765.0,Elena,3,0,horta,12.462569376397614
 1474,1,Flat,Flat,-1.0,22,True,False,41.41098,/es/alquiler/vivienda/barcelona-capital/terraza-ascensor/157829218/d,2.184064,765.0,FINCAS A.G. NUÑEZ,3,64,el camp de l'arpa del clot,13.541243796410015
 1475,1,Flat,Flat,-1.0,0,False,False,41.43159,/es/alquiler/vivienda/barcelona-capital/horta/158167061/d,2.15764,765.0,Particular,3,60,horta,12.462569376397614
 1476,2,Flat,Flat,-1.0,0,False,False,41.37301,/es/alquiler/vivienda/barcelona-capital/amueblado-television/156743798/d,2.138264,765.0,SH BARCELONA,1,67,sants,13.842839412213523
@@ -1617,7 +1612,6 @@
 2150,1,Flat,Flat,-1.0,50,True,False,41.3848,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/158023620/d,2.167351,800.0,ENPARTICULAR,3,50,el raval,14.323614132049755
 2151,1,Flat,Flat,-1.0,0,True,False,41.40416,/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado/157937687/d,2.147869,800.0,ESTUDI BALMES,1,53,el putxet i el farró,15.027643645449707
 2153,1,Flat,Flat,-1.0,0,True,False,41.4041,/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-amueblado/157961414/d,2.1772400000000003,800.0,SERVICHECK (VALLECAS),3,60,la sagrada família,14.476486837923611
-2154,1,Attic,Flat,-1.0,0,False,False,41.38491,/es/alquiler/vivienda/barcelona-capital/trastero-amueblado/157949023/d,2.16719,800.0,Carlos Borrego,1,0,el raval,14.323614132049755
 2155,1,Attic,Flat,-1.0,100,True,False,41.40147,/es/alquiler/vivienda/barcelona-capital/terraza-ascensor-se-aceptan-mascotas-no-amueblado/157958323/d,2.138123,800.0,INMOSERVICE BARCELONA,1,37,sant gervasi - galvany,15.275452400051837
 2156,1,Flat,Flat,-1.0,0,False,False,41.40657,/es/alquiler/vivienda/barcelona-capital/sant-gervasi-i-la-bonanova/158086412/d,2.13883,800.0,Forcadell Res.Lloguers,3,66,sant gervasi - la bonanova,16.038572036859406
 2157,1,Flat,Flat,-1.0,300,False,False,41.38025,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado-internet/156530359/d,2.166939,800.0,ATEMPORAL MONTHLY RENTALS,2,42,el raval,14.323614132049755
@@ -2474,7 +2468,6 @@
 3174,1,Flat,Flat,-1.0,109,True,False,41.40023,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor/156526661/d,2.164171,891.0,ARNAL  Servicios Inmobiliarios,1,41,la vila de gràcia,15.09676059493889
 3175,1,Flat,Flat,-1.0,429,True,False,41.44042,/es/alquiler/vivienda/barcelona-capital/ascensor/154248376/d,2.186439,891.0,SIMURBA,3,69,sant andreu,12.474876968176009
 3176,1,Flat,Flat,-1.0,0,True,False,41.42735,/es/alquiler/vivienda/barcelona-capital/ascensor/157777442/d,2.184659,892.0,InmueblesBCN,2,72,la sagrera,12.64546215153618
-3177,1,Flat,Flat,1.0,62,True,False,41.4003,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-ascensor-parking/157843357/d,2.164298,894.0,ARNAL  Servicios Inmobiliarios,1,0,la vila de gràcia,15.09676059493889
 3179,1,Flat,Flat,3.0,0,True,False,41.38014,/es/alquiler/vivienda/barcelona-capital/ascensor/158224796/d,2.126584,895.0,STATUS INMOBILIARIO,3,70,la maternitat i sant ramon,14.449559376751349
 3180,2,Flat,Flat,3.0,105,True,False,41.38123,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/157212067/d,2.136849,895.0,"FINCAS CALVET, S.L.",4,99,sants,13.842839412213523
 3181,1,Flat,Flat,2.0,205,True,False,41.3807,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-patio-amueblado-se-aceptan-mascotas/155859640/d,2.170762,895.0,BCN FLATS ,1,105,el raval,14.323614132049755
@@ -2773,7 +2766,6 @@
 3552,1,Flat,Flat,-1.0,25,True,False,41.39314,/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado-television/157629305/d,2.130887,900.0,ETRIM FINQUES,2,55,les tres torres,17.04511496568929
 3553,1,Flat,Flat,-1.0,100,True,False,41.40747,/es/alquiler/vivienda/barcelona-capital/ascensor/157437845/d,2.144072,900.0,PIA,2,48,el putxet i el farró,15.027643645449707
 3554,1,Flat,Flat,-1.0,50,True,False,41.40573,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-ascensor-amueblado/157721151/d,2.177649,900.0,PUNTO HABITAT,3,75,la sagrada família,14.476486837923611
-3555,1,Flat,Flat,-1.0,90,True,False,41.40186,/es/alquiler/vivienda/barcelona-capital/terraza-ascensor-se-aceptan-mascotas-no-amueblado/157667483/d,2.208556,900.0,GAND HOUSE,3,0,el poblenou,15.083231195188253
 3556,2,Apartment,Flat,-1.0,0,True,False,41.40853,/es/alquiler/vivienda/barcelona-capital/terraza-trastero-ascensor/158130416/d,2.160178,900.0,PERAIRE PROPERTIES SL,3,60,la vila de gràcia,15.09676059493889
 3557,1,Flat,Flat,-1.0,0,True,False,41.40571,/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-amueblado/158182778/d,2.16733,900.0,Particular,2,64,el camp d'en grassot i gràcia nova,14.732872616891491
 3558,2,Flat,Flat,-1.0,200,True,False,41.38629,/es/alquiler/vivienda/barcelona-capital/ascensor/157712401/d,2.149376,900.0,DON PISO,4,78,la nova esquerra de l'eixample,14.521146251476095
@@ -3083,7 +3075,6 @@
 3874,1,Flat,Flat,3.0,0,False,False,41.38964,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado/157833176/d,2.170739,950.0,AREA CASA,1,50,la dreta de l'eixample,14.399608832391861
 3875,1,Flat,Flat,3.0,45,True,False,41.40639,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-ascensor-patio/157689196/d,2.139936,950.0,"OPTIMUN ENTERPRISE, S.L",3,68,el putxet i el farró,15.027643645449707
 3876,1,Flat,Flat,3.0,0,True,False,41.3822,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-terraza-ascensor-amueblado-television/157862524/d,2.133857,950.0,"OPTIMUN ENTERPRISE, S.L",3,80,les corts,15.052336801010366
-3877,1,Flat,Flat,3.0,0,True,False,41.38521,/es/alquiler/vivienda/barcelona-capital/calefaccion-parking-ascensor-amueblado-television/157843892/d,2.14529,950.0,mustapha,3,0,la nova esquerra de l'eixample,14.521146251476095
 3878,1,Flat,Flat,3.0,0,False,False,41.37906,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-amueblado/157769363/d,2.116665,950.0,AREA CASA,3,73,la maternitat i sant ramon,14.449559376751349
 3879,1,Flat,Flat,3.0,150,True,False,41.3815,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor/156277463/d,2.175834,950.0,FINCAS EVA SERVICIOS INMOBILIARIOS,2,104,el barri gòtic,14.298789695601279
 3880,1,Flat,Flat,3.0,0,True,False,41.38237,/es/alquiler/vivienda/barcelona-capital/ascensor-amueblado-television/157774143/d,2.1371990000000003,950.0,TECNOCASA,4,70,sants,13.842839412213523
@@ -3436,7 +3427,6 @@
 4241,1,Apartment,Flat,3.0,25,True,False,41.40612,/es/alquiler/vivienda/barcelona-capital/calefaccion-terraza-ascensor/157248145/d,2.134623,975.0,CEFERSA GESTION INMOBILIARIA,1,43,sant gervasi - la bonanova,16.038572036859406
 4242,2,Flat,Flat,3.0,125,True,False,41.40674,/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-se-aceptan-mascotas-no-amueblado/154761612/d,2.13667,975.0,NCI,2,66,sant gervasi - la bonanova,16.038572036859406
 4243,1,Flat,Flat,3.0,0,False,False,41.41205,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion/157868244/d,2.207248,975.0,AREA CASA,1,85,el poblenou,15.083231195188253
-4244,2,Flat,Flat,3.0,0,True,False,41.41933,/es/alquiler/vivienda/barcelona-capital/ascensor/154977346/d,2.190384,975.0,DOLÇA LLAR,3,0,la sagrera,12.64546215153618
 4245,1,Flat,Flat,3.0,0,False,False,41.37073,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-no-amueblado/157787162/d,2.13254,975.0,INMOSERVICE BARCELONA,3,90,la bordeta,12.756845095570602
 4246,2,Flat,Flat,2.0,0,False,False,41.37142,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado/158236159/d,2.13235,975.0,ESTUDI MERCAT DE SANTS,3,88,sants,13.842839412213523
 4247,2,Flat,Flat,2.0,75,True,False,41.37224000000001,/es/alquiler/vivienda/barcelona-capital/ascensor/158161741/d,2.156349,975.0,FINCAS GARVI,3,100,el poble sec - aei parc montjuïc,14.359229885638655
@@ -4444,7 +4434,6 @@
 5633,2,Flat,Flat,-1.0,25,True,False,41.41157000000001,/es/alquiler/vivienda/barcelona-capital/terraza-ascensor-amueblado/157874462/d,2.188882,1075.0,RS GROUP,4,90,el clot,13.24594657998683
 5634,1,Flat,Flat,-1.0,70,True,False,41.40022,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-ascensor-no-amueblado/157847270/d,2.164028,1078.0,ARNAL  Servicios Inmobiliarios,1,57,la vila de gràcia,15.09676059493889
 5635,2,Flat,Flat,2.0,0,True,False,41.38399,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-no-amueblado/158196814/d,2.15585,1079.0,FINQUES FERRE,2,60,la nova esquerra de l'eixample,14.521146251476095
-5636,1,Flat,Flat,1.0,0,True,False,41.38391,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-ascensor/158197412/d,2.155873,1079.0,ARNAL  Servicios Inmobiliarios,3,0,la nova esquerra de l'eixample,14.521146251476095
 5637,2,Flat,Flat,1.0,0,True,False,41.40743,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/158107292/d,2.157154,1079.0,FINQUES PERRAMON S.C.P,3,75,la vila de gràcia,15.09676059493889
 5638,1,Flat,Flat,-1.0,101,True,False,41.40255,/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-amueblado/158179668/d,2.161729,1079.0,FINQUES LEMI,3,90,la vila de gràcia,15.09676059493889
 5639,0,Flat,Flat,-1.0,0,True,False,41.38792,/es/alquiler/vivienda/barcelona-capital/ascensor/157879349/d,2.143869,1079.0,OLLE BERTRAN,3,90,la nova esquerra de l'eixample,14.521146251476095
@@ -4503,7 +4492,6 @@
 5764,1,Flat,Flat,-1.0,60,True,False,41.39974,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/157528595/d,2.146642,1090.0,CAPOLRA,1,50,sant gervasi - galvany,15.275452400051837
 5765,1,Flat,Flat,-1.0,60,True,False,41.39958,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/157528832/d,2.14638,1090.0,CAPOLRA,1,50,sant gervasi - galvany,15.275452400051837
 5766,1,Flat,Flat,-1.0,15,False,False,41.40385,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-no-amueblado/157744819/d,2.15497,1090.0,FINCAS FERNÁNDEZ,2,54,la vila de gràcia,15.09676059493889
-5767,1,Apartment,Flat,-1.0,610,False,False,41.40213,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-patio-amueblado-television/156123419/d,2.210763,1090.0,CLOUD5 BARCELONA,1,0,diagonal mar i el front marítim del poblenou,17.261527510142248
 5768,1,Flat,Flat,-1.0,0,True,False,41.4098,/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-amueblado/158186589/d,2.186287,1090.0,ALL4FLAT,3,86,el camp de l'arpa del clot,13.541243796410015
 5769,1,Flat,Flat,-1.0,0,True,False,41.43157,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/158153095/d,2.172631,1090.0,GRAU SERVEIS IMMOBILIARIS,3,95,el turó de la peira,11.699314863704796
 5770,1,Apartment,Flat,-1.0,110,True,False,41.3932,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/157789205/d,2.130877,1090.0,PIA,2,65,les tres torres,17.04511496568929
@@ -4667,7 +4655,6 @@
 5929,1,Flat,Flat,2.0,0,True,False,41.38678,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-patio-amueblado/158035801/d,2.154996,1100.0,NOU VALL FINQUES,3,64,l'antiga esquerra de l'eixample,14.475539079123976
 5930,1,Flat,Flat,2.0,0,False,False,41.39204,/es/alquiler/vivienda/barcelona-capital/amueblado/158102986/d,2.168943,1100.0,PROPIFY,2,63,la dreta de l'eixample,14.399608832391861
 5931,1,Flat,Flat,2.0,200,True,False,41.37743,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-ascensor-amueblado-television/157913781/d,2.14998,1100.0,LUXBARCELONA,2,75,la nova esquerra de l'eixample,14.521146251476095
-5932,2,Flat,Flat,2.0,0,True,False,41.40555,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-trastero-ascensor-amueblado-parking/158024772/d,2.17833,1100.0,eva,3,0,la sagrada família,14.476486837923611
 5933,1,Flat,Flat,2.0,0,True,False,41.39976,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado-television/158021990/d,2.195282,1100.0,BARCINO JURIDIC ,1,58,el parc i la llacuna del poblenou,15.01556602976692
 5934,1,Flat,Flat,2.0,0,True,False,41.40273,/es/alquiler/vivienda/barcelona-capital/ascensor-no-amueblado/157954892/d,2.15891,1100.0,"FIMES 2000 , SL",3,70,la vila de gràcia,15.09676059493889
 5935,2,Flat,Flat,2.0,300,True,False,41.40501,/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor-no-amueblado/156696997/d,2.175784,1100.0,INMOSERVICE BARCELONA,4,110,la sagrada família,14.476486837923611
@@ -7246,7 +7233,6 @@
 9206,1,Flat,Flat,-1.0,0,True,False,41.38728,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-amueblado-internet/157164604/d,2.1609990000000003,1500.0,MONIKA RÜSCH,1,62,l'antiga esquerra de l'eixample,14.475539079123976
 9207,2,Flat,Flat,-1.0,400,True,False,41.39315,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-patio-amueblado/156647674/d,2.147114,1500.0,MONIKA RÜSCH,4,130,sant gervasi - galvany,15.275452400051837
 9208,1,Apartment,Flat,-1.0,200,True,False,41.38653,/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor/156915983/d,2.175526,1500.0,LUCAS FOX,3,149,el barri gòtic,14.298789695601279
-9209,1,Flat,Flat,-1.0,0,True,False,41.40496,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-trastero-ascensor-patio-amueblado-no-amueblado/158083646/d,2.1783,1500.0,Marc,3,0,la sagrada família,14.476486837923611
 9210,2,Flat,Flat,-1.0,0,False,False,41.38687,/es/alquiler/vivienda/barcelona-capital/terraza-trastero/158214072/d,2.164483,1500.0,monica brat jardi,4,140,l'antiga esquerra de l'eixample,14.475539079123976
 9211,2,Flat,Flat,-1.0,200,True,False,41.38671,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-no-amueblado/158107092/d,2.147985,1500.0,URBENORTE CATALUNYA,3,110,la nova esquerra de l'eixample,14.521146251476095
 9212,2,Flat,Flat,-1.0,0,True,False,41.40759,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/158214066/d,2.197324,1500.0,Real Estate Angela,2,170,el poblenou,15.083231195188253
@@ -7737,7 +7723,6 @@
 9778,2,Flat,Flat,-1.0,0,True,False,41.38179,/es/alquiler/vivienda/barcelona-capital/calefaccion-terraza-ascensor/158132818/d,2.157999,1690.0,BASMI FINQUES,5,176,la nova esquerra de l'eixample,14.521146251476095
 9779,1,Apartment,Flat,-1.0,0,True,False,41.38739,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-internet/158111975/d,2.180471,1690.0,Homelike,2,68,"sant pere, santa caterina i la ribera",15.157329044420129
 9780,2,Loft,Flat,-1.0,0,True,False,41.38502,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-patio/157563663/d,2.155215,1690.0,NUÑEZ I NAVARRO,2,100,la nova esquerra de l'eixample,14.521146251476095
-9781,1,Flat,Flat,-1.0,0,True,False,41.39037,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor/152247143/d,2.143142,1693.0,ARNAL  Servicios Inmobiliarios,1,0,les corts,15.052336801010366
 9782,1,Flat,Flat,3.0,0,True,False,41.40517,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-ascensor/155797131/d,2.13464,1695.0,130 SERVEIS IMMOBILIARIS,1,79,sant gervasi - la bonanova,16.038572036859406
 9784,2,Flat,Flat,3.0,0,True,False,41.39293,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-ascensor-amueblado/158129331/d,2.152073,1695.0,APROPERTIES REAL ESTATE Nº Aicat 6388,3,122,l'antiga esquerra de l'eixample,14.475539079123976
 9785,1,Attic,Flat,-1.0,0,True,False,41.38538,/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-ascensor-amueblado/157976486/d,2.152543,1695.0,ENGEL & VOELKERS,2,115,la nova esquerra de l'eixample,14.521146251476095
