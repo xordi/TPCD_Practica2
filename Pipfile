@@ -10,6 +10,9 @@ notebook = "*"
 pandas = "*"
 matplotlib = "*"
 scipy = "*"
+sklearn = "*"
+statsmodels = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.8"
